@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_sort_entries">
+        <item>@string/pref_sort_option_popularity_desc</item>
+        <item>@string/pref_sort_option_popularity_asc</item>
+        <item>@string/pref_sort_option_rating_desc</item>
+        <item>@string/pref_sort_option_rating_asc</item>
+    </string-array>
+
+    <string-array name="pref_sort_entry_values">
+        <item>@string/pref_sort_value_popularity_desc</item>
+        <item>@string/pref_sort_value_popularity_asc</item>
+        <item>@string/pref_sort_value_rating_desc</item>
+        <item>@string/pref_sort_value_rating_asc</item>
+    </string-array>
+
+</resources>

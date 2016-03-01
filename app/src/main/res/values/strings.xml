@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TO BE REMOVED BEFORE PROJECT SUBMISSION AND REPLACED BY REVIEWER -->
+    <string name="themoviedb_api_key">API_KEY_HERE</string>
+
+    <string name="title_activity_movie_detail">Popular Movies</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_category_sorting">Sort By</string>
+    <string name="movie_poster_description">Popular Movie Poster</string>
+    <string name="movie_detail_thumbnail_description">Movie Thumbnail</string>
+
+    <string name="pref_sort_label">Sort By</string>
+    <string name="pref_sort_key" translatable="false">sort_by</string>
+    <string name="pref_sort_option_popularity_desc" translatable="false">Most Popular</string>
+    <string name="pref_sort_option_popularity_asc" translatable="false">Least Popular</string>
+    <string name="pref_sort_option_rating_desc" translatable="false">Highest Rated</string>
+    <string name="pref_sort_option_rating_asc" translatable="false">Lowest Rated</string>
+    <string name="pref_sort_value_popularity_desc" translatable="false">popularity.desc</string>
+    <string name="pref_sort_value_popularity_asc" translatable="false">popularity.asc</string>
+    <string name="pref_sort_value_rating_desc" translatable="false">vote_average.desc</string>
+    <string name="pref_sort_value_rating_asc" translatable="false">vote_average.asc</string>
+</resources>

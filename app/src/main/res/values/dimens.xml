@@ -1,0 +1,43 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="poster_width_w92">92dp</dimen>
+    <dimen name="poster_width_w154">154dp</dimen>
+    <dimen name="poster_width_w185">180dp</dimen>
+    <dimen name="poster_width_w342">342dp</dimen>
+    <dimen name="poster_width_w500">500dp</dimen>
+    <dimen name="poster_width_w780">780dp</dimen>
+    <dimen name="poster_width_original">2500dp</dimen>
+    <dimen name="poster_no_margin">0dp</dimen>
+
+    <dimen name="movie_detail_title_size">30sp</dimen>
+    <dimen name="movie_detail_title_margin_top">16dp</dimen>
+    <dimen name="movie_detail_title_margin_bottom">16dp</dimen>
+    <dimen name="movie_detail_title_margin_left">32dp</dimen>
+    <dimen name="movie_detail_title_margin_right">16dp</dimen>
+
+    <dimen name="movie_detail_thumbnail_margin_top">16dp</dimen>
+    <dimen name="movie_detail_thumbnail_margin_bottom">16dp</dimen>
+    <dimen name="movie_detail_thumbnail_margin_left">32dp</dimen>
+    <dimen name="movie_detail_thumbnail_margin_right">16dp</dimen>
+
+    <dimen name="movie_detail_year_size">20sp</dimen>
+    <dimen name="movie_detail_year_margin_top">16dp</dimen>
+    <dimen name="movie_detail_year_margin_bottom">5dp</dimen>
+    <dimen name="movie_detail_year_margin_left">32dp</dimen>
+    <dimen name="movie_detail_year_margin_right">5dp</dimen>
+
+    <dimen name="movie_detail_rating_size">15sp</dimen>
+    <dimen name="movie_detail_rating_margin_top">5dp</dimen>
+    <dimen name="movie_detail_rating_margin_bottom">5dp</dimen>
+    <dimen name="movie_detail_rating_margin_left">32dp</dimen>
+    <dimen name="movie_detail_rating_margin_right">5dp</dimen>
+
+    <dimen name="movie_detail_overview_size">15sp</dimen>
+    <dimen name="movie_detail_overview_margin_top">5dp</dimen>
+    <dimen name="movie_detail_overview_margin_bottom">16dp</dimen>
+    <dimen name="movie_detail_overview_margin_left">32dp</dimen>
+    <dimen name="movie_detail_overview_margin_right">16dp</dimen>
+</resources>

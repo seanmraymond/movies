@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/poster_no_margin"
+    android:paddingRight="@dimen/poster_no_margin"
+    android:paddingTop="@dimen/poster_no_margin"
+    android:paddingBottom="@dimen/poster_no_margin"
+    tools:context="net.lostboxen.udacity.popularmovies.MainActivity$PosterFragment">
+
+    <GridView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/gridview_posters"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:background="@android:color/black"
+        android:numColumns="auto_fit"
+        android:columnWidth="@dimen/poster_width_w185"
+        android:stretchMode="columnWidth"
+        android:gravity="center" />
+</FrameLayout>
